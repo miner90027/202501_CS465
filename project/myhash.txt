@@ -1,0 +1,13 @@
+Scope
+    Create an irreversable hashfunction
+
+Ideas
+    use existing hash algoritms
+    Break the input into smaller sections, each of which is run through a different hash
+    Combine the hashes of each section & hash the result
+
+    use bitwise operators to scramble the input
+    break input int smaller pieces
+    use bitwise operators to scramble each section differently
+    combine the sections & then hash the result
+
